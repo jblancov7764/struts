@@ -124,7 +124,7 @@
         <!-- Site generation -->
         <fluido-skin.version>1.9</fluido-skin.version>
 
-        <!-- Sonar -->
+        <!-- Sonar  -->
         <sonar.organization>jblancov7764</sonar.organization>
         <sonar.projectKey>apache_struts</sonar.projectKey>
         <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
